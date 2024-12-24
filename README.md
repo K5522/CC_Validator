@@ -24,10 +24,9 @@ Welcome to the **Credit Card Validation Bot**! A cutting-edge Telegram bot that 
 ```bash
 git clone https://github.com/your-username/credit-card-validation-bot.git
 cd credit-card-validation-bot
-2. Install Dependencies
-Ensure Python 3.8+ is installed, then use the following command:
 ```
 ### **2. Install Dependencies**
+  Ensure Python 3.8+ is installed, then use the following command:
 ```sh
 pip install -r requirements.txt
 ```
@@ -45,7 +44,7 @@ BRAINTREE_PRIVATE_KEY=your-braintree-private-key
 ### **5. Run the Bot**
 Start the bot by running:
 ```sh
-python bot.py
+python __app__.py
 ```
 ---
 ##⚠️ Important Warning: 
