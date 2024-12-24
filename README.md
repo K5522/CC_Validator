@@ -53,14 +53,15 @@ python bot.py
 **🚨 For Ethical Use Only**
 This bot is intended for educational purposes or authorized workflows only.
 
-**DO NOT USE THIS BOT FOR:**
+***DO NOT USE THIS BOT FOR:***
 
-Unauthorized credit card testing.
-Fraudulent or malicious activities.
+- Unauthorized credit card testing.
+- Fraudulent or malicious activities.
+  
 By using this bot, you agree to act responsibly and comply with all relevant laws. Unauthorized use is strictly prohibited and punishable by law.
 
 ## 🤝 Contributions
-We ❤️ contributions! Want to enhance this bot? Follow these steps:
+****We ❤️ contributions! Want to enhance this bot? Follow these steps:****
 
  ***1. Fork the repo.***
  
